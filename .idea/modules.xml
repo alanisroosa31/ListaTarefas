@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListaTarefa/ListaTarefa.iml" filepath="$PROJECT_DIR$/ListaTarefa/ListaTarefa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ListaTarefas.iml" filepath="$PROJECT_DIR$/.idea/ListaTarefas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaTarefa/ListaTarefas.java/ListaTarefas.java.iml" filepath="$PROJECT_DIR$/ListaTarefa/ListaTarefas.java/ListaTarefas.java.iml" />
+    </modules>
+  </component>
+</project>
